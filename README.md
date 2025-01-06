@@ -69,6 +69,9 @@ The following datasets are included in the analysis:
 
 4. **Power BI**:
    - Visualize the cleaned and aggregated data by connecting to Azure SQL Database or directly from Azure Blob Storage.
+     
+5.**Data Processing with PySpark**: 
+   - Use PySpark to load, process, and analyze the data. This step includes tasks such as filtering, grouping, and aggregating data.
 
 ### Dataset Location
 
